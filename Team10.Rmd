@@ -11,7 +11,7 @@ Pada dokumen ini, kita akan mengeksplorasi materi **Iterasi dan Looping** menggu
 
 ## Definisi
 
-iterasi adalah proses eksekusi berulang pada suatu blok kode dalam pemrograman hingga kondisi tertentu dipenuhi. Dengan menggunakan iterasi, pengembang dapat mengotomatisasi proses yang memerlukan eksekusi berulang tanpa harus menulis kode yang sama secara manual. Iterasi sangat erat kaitannya dengan perulangan (loop). Ada 3 tipe struktur loop, yaitu:
+Iterasi adalah proses eksekusi berulang pada suatu blok kode dalam pemrograman hingga kondisi tertentu dipenuhi. Dengan menggunakan iterasi, pengembang dapat mengotomatisasi proses yang memerlukan eksekusi berulang tanpa harus menulis kode yang sama secara manual. Iterasi sangat erat kaitannya dengan perulangan (loop). Ada 3 tipe struktur loop, yaitu:
 
 1. for loops
 2. while loops
@@ -151,7 +151,7 @@ Untuk mengolah dan menganalisis data suhu harian tersebut secara efisien, dokter
 
 Secara khusus, staff IT diminta untuk:
 
-1. Menghitung rata-rata suhu tubuh setiap pasien selama 7 hari menggunakan.
+1. Menghitung rata-rata suhu tubuh setiap pasien selama 7 hari.
 2. Menemukan pasien pertama yang mengalami demam ringan (≥37.5°C) selama 4 hari atau lebih.
 3. Menghitung jumlah pasien yang tidak pernah demam selama seminggu, dan menghentikan pencarian setelah menemukan minimal 10 pasien
 
